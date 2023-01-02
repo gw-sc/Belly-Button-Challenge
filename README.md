@@ -7,6 +7,8 @@ In this assignment, you will build an interactive dashboard to explore the [Bell
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
+
+
 ## Instructions
 
 Complete the following steps:
@@ -39,6 +41,8 @@ Complete the following steps:
 
 4. Display the sample metadata, i.e., an individual's demographic information.
 
+![pie](Images/pie_chart.png)
+
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 
 ![hw](Images/hw03.png)
@@ -48,6 +52,9 @@ Complete the following steps:
 ![hw](Images/hw02.png)
 
 7. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
+
+![dashboard1](Images/dashboard_part1.png)
+![dashboard2](Images/dashboard_part2.png)
 
 ## Advanced Challenge Assignment (Optional)
 
