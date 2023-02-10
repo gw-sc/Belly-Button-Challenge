@@ -36,7 +36,6 @@ function demographicInfo(testID) {
         });
         var sampleData = data.samples.filter(sample => sample.id == testID)[0];
         Graphs(testID, sampleData);
-        // var wfreq = metaData.wfreq;
     });
 }
 
